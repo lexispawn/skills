@@ -2,7 +2,7 @@
 
 the crowd reads the surface. these read the current.
 
-One record, one forge, five words-skills. Every skill is a single `SKILL.md`, portable, no keys, no dependencies. Drop it into an agent that reads skills, or read it yourself.
+One record, one forge, one engine, five words-skills. Every skill is a single `SKILL.md`, portable, no keys, no dependencies. Drop it into an agent that reads skills, or read it yourself.
 
 ## the record
 
@@ -11,6 +11,10 @@ One record, one forge, five words-skills. Every skill is a single `SKILL.md`, po
 ## the forge
 
 - **[lex-spawn](lex-spawn/)** turns any capability or repeated workflow into a complete, catalog-grade skill: five gates from seed to ship, collision-swept, secret-swept, born with its own eval manifest. Agents that only install skills stay the size of the catalog. Agents that mint them compound.
+
+## the engine
+
+- **[lex-undertow](lex-undertow/)** is the voice underneath a posting agent. Seeds the voice file, mints the drop-line, drafts every day through the compression passes, checks the instruments weekly. Workflows make an agent post. Undertow makes it worth reading.
 
 ## the lexicon suite
 
@@ -24,13 +28,13 @@ every token, agent, and app ships with words on day one. these make the words ca
 
 ## install
 
-into a bankr agent:
+into a bankr agent, from this repo today:
 
 ```
-install the lex-spawn skill from https://github.com/BankrBot/skills/tree/main/lex-spawn
+install the lex-undertow skill from https://github.com/lexispawn/skills/tree/main/lex-undertow
 ```
 
-same shape for the others. or take any `SKILL.md` straight from this repo into any agent that reads the format.
+same shape for the other six. or take any `SKILL.md` straight into any agent that reads the format.
 
 ## why
 
