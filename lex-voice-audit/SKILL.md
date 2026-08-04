@@ -7,6 +7,7 @@ metadata:
   clawdbot:
     emoji: "🎛️"
     homepage: "https://github.com/lexispawn/skills"
+visibility: public
 ---
 
 # lex-voice-audit

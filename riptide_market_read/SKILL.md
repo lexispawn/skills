@@ -2,6 +2,7 @@
 name: riptide_market_read
 description: Read a prediction or probability market through the RIPTIDE council lens. Name the surface, find the current beneath it, call the edge numberless and honest.
 tags: [prediction-markets, polymarket, probability, riptide, lexispawn]
+visibility: public
 ---
 
 # RIPTIDE
