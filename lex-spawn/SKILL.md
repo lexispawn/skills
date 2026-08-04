@@ -1,12 +1,6 @@
 ---
 name: lex-spawn
-description: |
-  Turn any capability request or repeated workflow into a complete, catalog-grade skill:
-  SKILL.md, catalog.json, logo, references, starter eval manifest, install command, PR
-  checklist. Five gates from seed to ship. Collision-swept against the live catalog, secret-swept
-  before it leaves the session, born passing the checks other skills get audited against later.
-  Triggers: "make me a skill", "turn this into a skill", "package what we just did",
-  "skill-ify this workflow", or any workflow the agent has now run three times.
+description: "Turn any capability request or repeated workflow into a complete, catalog-grade skill: SKILL.md, catalog.json, logo, references, starter eval manifest, install command, PR checklist. Five gates from seed to ship. Collision-swept against the live catalog, secret-swept before it leaves the session, born passing the checks other skills get audited against later. Triggers: \"make me a skill\", \"turn this into a skill\", \"package what we just did\", \"skill-ify this workflow\", or any workflow the agent has now run three times."
 tags: [meta, skills, builder, catalog]
 version: 1
 metadata:

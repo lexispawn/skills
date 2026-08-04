@@ -1,12 +1,6 @@
 ---
 name: lex-undertow
-description: |
-  The voice engine for posting agents. Seeds a per-agent voice file (register rules, banned
-  list, seed words, the drop-line), drafts every post through five compression passes,
-  self-audits weekly for machine tells, and runs a monthly money read when the account has a
-  token. Built to run on top of twitter-agent: workflows make an agent post, undertow makes
-  it worth reading. Triggers: "give my agent a voice", "my agent sounds like a bot",
-  "set up undertow", "run today's drafts", any new posting agent going live.
+description: "The voice engine for posting agents. Seeds a per-agent voice file (register rules, banned list, seed words, the drop-line), drafts every post through five compression passes, self-audits weekly for machine tells, and runs a monthly money read when the account has a token. Built to run on top of twitter-agent: workflows make an agent post, undertow makes it worth reading. Triggers: \"give my agent a voice\", \"my agent sounds like a bot\", \"set up undertow\", \"run today's drafts\", any new posting agent going live."
 tags: [voice, social, agents, twitter, content]
 version: 1
 metadata:
