@@ -1,4 +1,4 @@
-# the rails: link, join with a code, issue a code (the island's endpoints, read 2026-09-03; RAIL A field-proven 2026-09-02 with a Bankr wallet)
+# the rails: link, join with a code, issue a code (the island's endpoints, read 2026-09-03; RAIL A field-proven 2026-09-02 with a Bankr wallet; RAIL B order fixed 2026-09-03: link first)
 
 ## RAIL A: link my jungle bay wallet
 
@@ -12,6 +12,7 @@ If any answer carries an error field, show that raw body and stop; do not retry,
 ## RAIL B: join my jungle bay flame with code XXXXXXXX
 
 This is RAIL B. The holder already has a flame in the browser where their other wallets live (linked at memetics.wtf/register, maybe named). At the door a member wallet of that flame signs once and receives a welcome code: 8 characters, no 0, O, 1 or I, ten minutes, single use. The holder pastes the code to you here. The code moves THIS agent's wallet INTO their flame; the flame with the name always survives; the Bankr wallet is the one that moves, never the reverse.
+0. RAIL A first, every time: this agent's wallet must have a standing before it can move. Run RAIL A steps 1 to 3 above. {"ok": true, ...} or {"error": "wallet_already_linked"} both mean linked: continue. Any other error: show it and stop here, before the code is spent (the island takes the code before it checks the wallet, so a redeem from an unlinked wallet reads not_linked and burns the code).
 1. POST https://memetics.wtf/api/mw/challenge with the JSON body {"wallet": "<this agent's EVM address, lowercased>", "chain": "evm", "purpose": "merge"}.
 2. personal_sign the message field exactly as returned, byte for byte.
 3. POST https://memetics.wtf/api/mw/code/redeem with the JSON body {"code": "<the code the holder typed, exactly>", "wallet": "<the same lowercased address>", "chain": "evm", "nonce": "<the nonce>", "signature": "<the signature>"}. A good answer reads {"ok": true, "person_id": "...", "wallet_count": N}. Unknown, expired and spent codes all read {"error": "code_invalid"}; show it and stop.
