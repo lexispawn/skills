@@ -9,6 +9,6 @@
   "install": {
     "type": "bankr",
     "repoPath": "jungle-bay",
-    "command": "install the jungle-bay skill from https://github.com/BankrBot/skills/tree/main/jungle-bay"
+    "command": "install the skill at https://github.com/lexispawn/skills/tree/main/jungle-bay"
   }
 }
