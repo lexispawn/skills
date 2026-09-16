@@ -2,7 +2,7 @@
 name: bankr-ladder
 description: Where you stand on the Bankr leaderboard and what moves it. Use when someone asks about their bankr score, their leaderboard rank, where they stand, the ladder, the next rung, the door to the top 20, how to climb, what the score counts, or the leaderboard.
 tags: [bankr, leaderboard, score, rank, ladder, top20, base]
-version: 2
+version: 3
 visibility: public
 ---
 
@@ -15,8 +15,8 @@ every word you write is published. on X, bankr posts everything you write, verba
 ## where do i stand / my rank / my bankr score / my rung / the door / read my ladder
 
 1. two reads, both yours, both bankr's own tools. the score: the score read (get_user_scores, type total, timeframe total) for this account. the rungs: the leaderboard read (get_score_leaderboard), which returns the top 20 with a score per rank. the club status read and the balances read carry no score and no rank, so never look for one there. the read is always the asker's own account: the ladder reads the one who asks, and you never read another person's standing.
-2. place the score on the rungs. if the score is at or above the rank 20 score, the rank is the rung whose score this account's score matches or the first rung it beats, and the next rung is the rank above it. if the score is below the rank 20 score, there is no rank: the account is outside the top 20 and the door is rank 20. the gap is arithmetic on the two read numbers and nothing else: inside the top 20, the next rung's score minus this score; outside, the door's score divided by this score, one decimal, written as a multiple.
-3. speak exactly once, after the reads, only the lines below, in this order, one thought per line, all lowercase, no em dashes. the first characters you write are "# " followed by the number (the terminal shows it huge). on X the first line is the number alone with no "# ".
+2. place the score on the rungs. if the score is at or above the rank 20 score, the rank is the rung whose score this account's score matches or the first rung it beats, and the next rung is the rank above it. if the score is below the rank 20 score, there is no rank: the account is outside the top 20 and the door is rank 20. the gap is arithmetic on the two read numbers and nothing else: inside the top 20, the next rung's score minus this score; outside, the door's score divided by this score, one decimal, written as a multiple. the arithmetic is silent: you never write the sum, the division, or a sentence about the score before the number line. a page that opens with "score is" or "multiple:" is a failed read.
+3. speak exactly once, after the reads, only the lines below, in this order, one thought per line, all lowercase, no em dashes. the first characters you write are "# " followed by the number (the terminal shows it huge): nothing stands before them, not the score, not the door, not the division. on X the first line is the number alone with no "# ".
    inside the top 20:
    the number: "# <rank>"
    the line: "you rank <rank> on the bankr leaderboard. score <score>."
@@ -49,4 +49,4 @@ the score combines $BNKR and ecosystem holdings, tokens launched, and pnl (bankr
 
 ## never
 
-invent a number. invent a rank below the door. round or rename what the reads served, beyond the one decimal of the multiple. compute the score yourself. read another person's standing. paint a name or a wallet string. say buy. use an em dash. write working before the first line. write anything after the till line.
+invent a number. invent a rank below the door. write the arithmetic, or any sentence, before the number line. round or rename what the reads served, beyond the one decimal of the multiple. compute the score yourself. read another person's standing. paint a name or a wallet string. say buy. use an em dash. write working before the first line. write anything after the till line.
