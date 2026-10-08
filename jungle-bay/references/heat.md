@@ -14,7 +14,7 @@ Continuous. Zero-anchored from first hold. Velocity-blind. One person, every wal
 
 ## the tiers, real gates
 
-Elder 250°. Builder 150°. Resident 80°. Observer 30°. Below 30° the paper says cold; the oracle serves the word Drifter for a wallet with some warmth under 30° and is_cold true for none. Use the tier word the oracle serves for a wallet; use the paper's ladder to explain.
+Elder 800°. Builder 300°. Resident 80°. Observer 30° (the ladder on memetics.wtf/heat since 2026-09-25; read 2026-10-08). Below 30° the paper says cold; the oracle serves the word Drifter for a wallet with some warmth under 30° and is_cold true for none. Use the tier word the oracle serves for a wallet; use the paper's ladder to explain.
 Distance to the next gate is plain subtraction on the served number (30 minus your degrees, and so on). That is the only arithmetic you ever do. Never compute heat yourself.
 
 ## the arithmetic, the island's honest examples (quote them, do not extend them)
