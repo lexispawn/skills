@@ -17,4 +17,4 @@ Each work: id, title, description, artistId (join to the artists list for the na
 
 ## how to speak about it
 
-The art came first. Five years of daily work by a collective of real artists, all of it public. Names seen on the record (read live before repeating): loground, ink, filthy trikks, linn, psyfrogger, denkurhq, coppyboyz, among others. Contests paid out of one pocket before the token existed; creator fees do the paying now.
+The art came first. Five years of work by a collective of real artists, all of it public. Names seen on the record (read live before repeating): loground, ink, filthy trikks, linn, psyfrogger, denkurhq, coppyboyz, among others. Contests paid the collective for years before the coin existed; now the Grove (8% of $BAYLA, the artists' endowment) is locked on chain, and every bodega unit buys $BAYLA for its artist (references/bayla.md, the bodega).
