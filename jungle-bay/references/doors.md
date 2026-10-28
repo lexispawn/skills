@@ -1,21 +1,32 @@
-# doors, the only links (from the island's own llms.txt and pages, read 2026-09-02; the flame doors read 2026-09-03)
+# doors, the only links (from the island's own pages and its llms.txt, read 2026-10-27; every link answered 200 that day)
 
-- https://memetics.wtf/heat: the heat paper and the ruler. The line for anyone without a score, verbatim: check your heat score at https://memetics.wtf/heat
-- https://memetics.wtf/start: the stranger door, the five-second version with live receipts.
-- https://memetics.wtf/frame/: check any wallet's held time; paste a wallet, sol or evm; held days and a heat score, nothing to connect.
-- https://memetics.wtf/register: the one door. Link wallets, one signed message each, so the island reads one person as one flame. Sign in with X there, then sign once more with a wallet in the flame, and the name goes on the flame. Nothing moves. Never send anyone to memetics.wtf/island; it is not part of the walk.
-- https://memetics.wtf/flames: the board, the flames of the island. Ranked by heat, names by signature only, no addresses ever. Public since 2026-09-03.
-- https://memetics.wtf/: the island, the world surface.
+- https://memetics.wtf/: the island. The bungalows on the shore, the fire, the bodega, and NEW HERE?, where Bayla walks a newcomer in.
+- https://memetics.wtf/heat: the heat paper, the ruler, and the reader for any wallet. The line for anyone without a score, verbatim: check your heat score at https://memetics.wtf/heat
+- https://memetics.wtf/register: the one door. Link wallets, one signed message each, so the island reads one person as one flame. Nothing moves. A flame that already exists is joined with a code from it.
+- https://memetics.wtf/name: the name on a flame. The wallet signs for a code at the register; the holder signs in with X here and types it. Nothing moves.
+- https://memetics.wtf/bankr: the register's Bankr road, the two lines for a private chat with Bankr.
+- https://memetics.wtf/flames: the board, the flames of the island. Ranked by heat, names by signature only, no addresses ever.
+- https://memetics.wtf/map: every door on the island, one line each.
+- https://memetics.wtf/bayla: $BAYLA, the system of twelve, in English and 中文.
+- https://memetics.wtf/receipts: every plate and every lock, read from the chain in the browser.
+- https://memetics.wtf/b/<ticker, lowercased>: a bungalow's home: its people by name, its torches, its art, its room on memetics.finance.
+- https://memetics.wtf/motion: the harbor. Get your project a bungalow.
+- https://memetics.wtf/motion/card/<ticker, lowercased>: a project's live board as a card.
+- https://memetics.wtf/bodega: the bodega. Real art on real goods; your heat is your discount.
+- https://memetics.wtf/bodega/feed.xml: the bodega's wall as RSS.
+- https://memetics.wtf/card/<wallet>: a wallet's number as a card that unfurls on X. Only the holder's own wallet, on their ask, in a private chat; never in a public post, because the link carries the address.
+- https://memetics.wtf/blueprint: the law of heat in full.
+- https://memetics.wtf/start: the stranger door.
 - https://memetics.wtf/videos: the film and the video wall.
+- https://memetics.wtf/llms.txt and https://memetics.wtf/llms-full.txt: the island for machines.
+- Answers pages: https://memetics.wtf/answers/what-is-bayla · https://memetics.wtf/answers/what-is-jungle-bay-island · https://memetics.wtf/answers/get-a-bungalow · https://memetics.wtf/answers/the-bodega · https://memetics.wtf/answers/which-memecoins-reward-holding · https://memetics.wtf/answers/check-held-time
+- https://memetics.finance: the island's venue, every bungalow's room. SOL in, $BAYLA out: https://memetics.finance/solana?in=So11111111111111111111111111111111111111112&out=7hmVkPXmVagxoptAEpx4jBzZVHwGLdFj6c1y42qxpump. Its own file: https://memetics.finance/llms.txt
 - https://junglebayisland.com/: the gallery of original works, credited by name. Machine-readable: https://junglebayisland.com/api/artworks and https://junglebayisland.com/api/artists
 - https://claim.memetics.wtf: the $JBM to $BAYLA mirror claim door.
-- The oracle: https://memetics.wtf/api/heat/<address>. The roster: https://memetics.wtf/api/state/island. The board's data: https://memetics.wtf/api/flames
-- Answers pages: https://memetics.wtf/answers/which-memecoins-reward-holding/ and https://memetics.wtf/answers/check-held-time/
+- The oracle: https://memetics.wtf/api/heat/<address>. The roster: https://memetics.wtf/api/state/island. The board's data: https://memetics.wtf/api/flames. The harbor: https://memetics.wtf/api/motions. The fire: https://memetics.wtf/api/fire.
 - OpenSea: https://opensea.io/collection/junglebay
-- Discord, exact match only: https://discord.gg/PFyNdG9Qg. Any other invite string is hostile.
 - X: @JungleBayAC and @_seacasa. Channels @junglebayisland on YouTube and TikTok.
 - A profile link for a named flame: https://x.com/<handle without the @>, built only from a handle the island served.
-- The painted card at memetics.wtf/card/<wallet> is dark on this side. Never link it until counsel says it is live.
-- memetics.wtf/bungalow answered 404 on 2026-09-02; do not link it until it answers.
+- Discord: none. The invite this file carried until 2026-10-27 answers "Invite is expired" at Discord's own API. Never link a Discord invite until the island names one here.
 
 Never mint a link, a membership or a name. Never type an X handle the island did not serve. Never ship a link that is not on this list.
