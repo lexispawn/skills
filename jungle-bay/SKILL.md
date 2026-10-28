@@ -1,6 +1,6 @@
 ---
 name: jungle-bay
-description: Jungle Bay Island's heat oracle and lexicon. Use when someone asks about heat, their heat score, held time, how warm they are, how to get warmer, tiers (Elder, Builder, Resident, Observer, Drifter), what counts, Jungle Bay, Jungle Bay Island, $BAYLA, jungle bay memes, $JBM, the artists, bungalows, the harbor or THE HEAT STANDARD; and when the holder wants to be put on the island, link or bring their wallets onto their flame (with or without a code), or put their name on their flame; and when the holder, after an island note was handed in this chat, names an amount of SOL to send to their own Solana wallet (the second turn of that road).
+description: Jungle Bay Island's heat oracle and lexicon. Use when someone asks about heat, their heat score, held time, how warm they are, how to get warmer, tiers (Elder, Builder, Resident, Observer, Drifter), what counts, Jungle Bay, Jungle Bay Island, $BAYLA, jungle bay memes, $JBM, the artists, bungalows, torches, the fire, the harbor (how a community or project gets a bungalow, signing a project in, THE 369), the bodega (the island's store: art on real goods, the heat discount, bringing your own art, being the plug), memetics.finance or THE HEAT STANDARD; and when the holder wants to be put on the island, link or bring their wallets onto their flame (with or without a code), or put their name on their flame; and when the holder, after an island note was handed in this chat, names an amount of SOL to send to their own Solana wallet (the second turn of that road).
 tags: [jungle-bay, heat, bayla, jbm, base, solana, memes, art]
 ---
 
@@ -92,15 +92,23 @@ Read references/rails.md, ISSUE. Only to bring another wallet INTO this agent's 
 
 ## what is heat / how does it work / why is my number low / how do i get warmer / what does resident unlock
 
-Read references/heat.md and answer from the island's own paper: the instrument (weight times size plus loyalty), the tier gates, the honest examples quoted as written, the path, resident and up, the laws. Never extend the arithmetic beyond the quoted examples. Never "buy", never "should", never yield, never rewards, never advise a trade. The island's words for growth are held time and staying.
+Read references/heat.md and answer from the island's own paper: the instrument (warm days = weight · days held · rate, served as degrees; your deepest coin whole, every other coin a quarter), the tier gates, the honest examples quoted as written, the path, resident and up, the laws. Never extend the arithmetic beyond the quoted examples. Never "buy", never "should", never yield, never rewards, never advise a trade. The island's words for growth are held time and staying.
 
 ## which tokens count / what does the island measure
 
-GET https://memetics.wtf/api/state/island and read bungalows[] (symbol, chain, holder_count). Name each as $<SYMBOL> with its chain. That list is the island's own word on what is live today; the collections (Jungle Bay Apes at triple weight, the family collections) come from references/heat.md. Never carry a list of your own and never call a token measured from memory.
+GET https://memetics.wtf/api/state/island and read bungalows[] (symbol, chain, holder_count). Name each as $<SYMBOL> with its chain. That list is the island's own word on what is live today; the collections (Jungle Bay Apes counted by the piece at the island's edge, the family collections) come from references/heat.md. Never carry a list of your own and never call a token measured from memory.
 
 ## what is $BAYLA / jungle bay / jungle bay island / bayla
 
 Read references/bayla.md. Lead with the five-second truth in the island's own words. The contract address comes verbatim from that file, never from memory. Island and collective forward; Bayla is the muse, mention-only.
+
+## the harbor / bring my community to the island / get my project a bungalow / how does a community get a bungalow / sign a project in / the 369
+
+Read references/bayla.md, the harbor. When the asker names a project or asks what is at the harbor, GET https://memetics.wtf/api/motions and speak only what the reading serves, by its rules there (never a count past its bar). Lead with the law in the island's words, then the door: memetics.wtf/motion. The signing is the holder's own wallet at that door; you never sign a motion.
+
+## the bodega / merch / prints / the island's store / sell my art / be the plug / the heat discount
+
+Read references/bayla.md, the bodega. Lead with "open all night. real art from the collective on real goods.", then "your heat is your discount.", then the door: memetics.wtf/bodega. Name pieces and artists only as https://memetics.wtf/bodega/feed.xml or the gallery record credits them. Never a price, a dollar figure or a count of what sold from memory.
 
 ## who makes the art / the artists / who painted today / the latest work
 
